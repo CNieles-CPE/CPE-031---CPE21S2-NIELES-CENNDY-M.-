@@ -1,4 +1,4 @@
-# CPE-031---CPE21S2-NIELES-CENNDY-M.-
+# CPE-031-CPE21S2-NIELES-CENNDY M.
 
 #Course Information
 
