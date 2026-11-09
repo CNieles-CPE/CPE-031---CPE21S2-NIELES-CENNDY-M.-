@@ -40,20 +40,29 @@ misleading.
 PRELIM PERIOD
 
 1. Experiencing Analytics
+   
 2. Data Collection and Storage
+ 
 3.  Artificial Intelligence and Machine Learning
+  
 4.  Embarking Your Career in Data Analytics
+ 
 5.Selecting a Chart Type
 
 MIDTERM PERIOD
 
 6.Data Visualization and Design
+
 7.Purpose Use of Color
+
 8.Visualizing Variability
+
 9.Exploring Data Visually
 
 FINAL PERIOD 
 
 10.Explaining Visually to Influence with Data
+
 11.Data Dashboards
+
 12.Telling the truth with Data Visualization
